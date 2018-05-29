@@ -1,0 +1,43 @@
+#log{width:50px;
+    margin-top: -70px;
+    margin-left:-2px;
+    float:top;
+    height:50px;
+    border-radius: 15px;}
+
+#me{width:100px;
+    border-radius:90%;
+    margin-top: 205px;
+    margin-right:550px;
+}
+
+h1{font-family: 'Anton', sans-serif;
+   margin-left:45%;}
+
+body{ background-image: url("back.jpg ");}
+
+.link{margin-top: -62px;
+      margin-left:1230px;
+      }
+
+ a{text-decoration: none;}
+
+ #home{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left:-150px;
+font-size:25px;
+color:black;
+}
+ #skill{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:10px;
+    color:black;
+    font-size:25px;
+}
+ #blog{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:10px;
+    font-size:25px;
+    color:black;    
+}
+ h2{padding-left:550px;
+padding-right: 250px;
+margin-bottom: 0px;
+margin-top: -146px;}
